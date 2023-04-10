@@ -1,0 +1,1 @@
+#Necesitamos instalar python-multipart python-jose[cryptography] passlib[bcrypt]
